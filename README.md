@@ -1,4 +1,4 @@
-﻿# Best-Movie-CodeChef
+﻿# Best Movie CodeChef
 
 
 This C++ program is designed to handle multiple test cases. For each test case, it reads an integer `N`, representing the number of items or options. For each of these `N` entries, it reads two integers: `A` and `B`. The program is interested in only those entries where `A >= 7`. Among these, it keeps track of the minimum value of `B` — possibly representing the cost or value associated with items that meet the condition.
